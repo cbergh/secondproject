@@ -15,6 +15,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="untitled" />
     <orderEntry type="module" module-name="EC2_Django" />
+    <orderEntry type="module" module-name="EC2_Django2" />
   </component>
   <component name="TemplatesService">
     <option name="TEMPLATE_CONFIGURATION" value="Django" />
